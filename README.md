@@ -12,6 +12,6 @@ This Application Allows user to
 - Print Bill
 - Integrated Payment Gateway
 
-Tech Stack Used
+## Tech Stack Used
 
 -React.js - Node.js - Express.js - MongoDB
